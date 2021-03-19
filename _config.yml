@@ -122,11 +122,11 @@ navigation_header:
 - title: Home
   url: /
 - title: Projects
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
+  url: /projects/
+#- title: Blog
+#  url: /blog/
+#- title: Categories
+#  url: /categories/
 - title: Search
   url: /search/
 #- title: Fork Alembic
