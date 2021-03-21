@@ -1,10 +1,8 @@
 ---
 title: Projects
-feature_text: |
-  Some personal projects of mine!!
 feature_image: "/assets/wyndgate.png"
 excerpt: "Thanks for visiting!"
-aside: false
+aside: true
 ---
 
 # Heading 1
