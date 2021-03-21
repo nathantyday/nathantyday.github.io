@@ -4,7 +4,7 @@ feature_text: |
   Some personal projects of mine!!
 feature_image: "/assets/wyndgate.png"
 excerpt: "Thanks for visiting!"
-aside: true
+aside: false
 ---
 
 # Heading 1
