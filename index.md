@@ -1,7 +1,6 @@
 ---
 title: About
 feature_image: "/assets/tessa.JPG"
-excerpt: ""
 ---
 
 I am a Junior at the University of Michigan studying Computer Science. My passions include exploring nature, photography, robotics, and spending time with family and friends. Thanks for visiting my websiteツ!
