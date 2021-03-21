@@ -1,7 +1,7 @@
 ---
 title: About
 feature_image: "/assets/tessa.JPG"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "I am a Junior at the University of Michigan studying Computer Science. My passions include exploring nature, photography, robotics, and spending time with family and friends. Thanks for visiting my websiteツ!"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
