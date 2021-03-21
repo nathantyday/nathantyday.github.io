@@ -2,7 +2,7 @@
 title: Projects
 feature_text: |
   Some personal projects of mine!!
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_image: "/assets/wyndgate.png"
 excerpt: "Thanks for visiting!"
 aside: true
 ---
