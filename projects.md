@@ -15,8 +15,6 @@ aside: true
 
 ##### Heading 5
 
-###### Heading 6
-
 <small>A small element</small>
 
 [A link](https://david.darn.es "A link")
