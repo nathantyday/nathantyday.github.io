@@ -93,7 +93,7 @@ lang: en-GB # Set the site language
 title: "Nathan Day" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/snail.svg" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
-url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+url: "https://nathantyday.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "nathantyday@gmail.com"
