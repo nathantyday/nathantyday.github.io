@@ -1,6 +1,6 @@
 ---
 title: About
-feature_image: "/assets/tessa.JPG"
+feature_image: "/assets/tessa_butterfly.JPG"
 aside: true
 ---
 
