@@ -2,7 +2,7 @@
 title: Projects
 feature_image: "/assets/wyndgate.png"
 excerpt: "Some personal projects of mine!"
-aside: true
+aside: false
 ---
 
 # Heading 1

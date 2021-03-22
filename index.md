@@ -1,6 +1,7 @@
 ---
 title: About
 feature_image: "/assets/tessa.JPG"
+aside: true
 ---
 
 Hi! I'm Nathan, a Junior studying Computer Science at the University of Michigan. My passions include exploring nature, robotics, photography, and spending time with family and friends. Thanks for visiting my websiteツ!
