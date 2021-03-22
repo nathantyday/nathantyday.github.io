@@ -1,7 +1,7 @@
 ---
 title: Projects
 feature_image: "/assets/wyndgate.png"
-excerpt: "Thanks for visiting!"
+excerpt: "Some personal projects of mine!"
 aside: true
 ---
 
