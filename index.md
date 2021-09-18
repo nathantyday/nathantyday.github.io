@@ -1,7 +1,7 @@
 ---
 title: About
 feature_image: "/assets/tessa_butterfly.JPG"
-aside: true
+aside: false
 ---
 
 Hi! I'm Nathan, a Senior studying Computer Science at the University of Michigan. My passions include exploring nature, software, learning new things, and spending time with family and friends. Thanks for visiting my websiteツ!
