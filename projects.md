@@ -1,13 +1,22 @@
 ---
 title: Projects
 feature_image: "/assets/wyndgate.png"
-excerpt: "Some personal projects of mine!"
+excerpt: "Some personal and academic projects of mine!"
 aside: false
 ---
 
-# Heading 1
 
-## Heading 2
+### Arduino Self Balancing Robot
+
+### Sliding Calendar
+
+### Arduino Video Game
+
+### Scheme Interpreter
+
+### Network Filesystem
+
+### Decaf Compiler
 
 
 <small>A small element</small>
