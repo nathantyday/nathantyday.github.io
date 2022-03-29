@@ -13,6 +13,7 @@ aside: false
 <small>A small element</small>
 
 [A link](https://david.darn.es "A link")
+![image](./assets/tessa.JPG)
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
